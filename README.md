@@ -47,3 +47,4 @@ To replicate these results, just run:
     build/score 2>&1 | tail -n1 | cut -d ' ' -f 3; done
 
 [QuantCup]: http://www.quantcup.org/home/spec
+# quantcup_copy
